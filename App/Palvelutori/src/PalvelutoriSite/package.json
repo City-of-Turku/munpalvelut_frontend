@@ -1,0 +1,27 @@
+{
+  "name": "palvelutori",
+  "version": "0.1.0",
+  "description": "Palvelutori",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Citrus Solutions Oy",
+  "dependencies": {
+    "angular": "1.5.0",
+    "angular-route": "1.5.0",
+    "angular-animate": "1.5.0",
+    "angular-touch": "1.5.0",
+    "bootstrap": "3.3.6",
+    "bootswatch-less": "3.3.4",
+    "font-awesome": "4.5.0",
+    "moment": "2.12.0",
+    "pikaday": "1.4.0"
+  },
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "less": "2.7.1",
+    "gulp-less": "3.1.0",
+    "gulp-cssmin": "0.1.7",
+    "gulp-rename": "1.2.2"
+  }
+}
