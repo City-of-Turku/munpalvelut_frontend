@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "declaration":  true,
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es5",
+    "outFile": "wwwroot/Dist/businessForms.js"
+  },
+  "files": [
+    "App/Services/BFDataService.ts",
+    "App/Services/BFDataItem.ts",
+    "App/Services/BFCommandItem.ts",
+    "App/Services/BFErrorHandler.ts",
+    "App/Directives/BFBindTo.ts",
+    "App/Directives/BFFormatNumber.ts",
+    "App/Directives/BFValidationFeedback.ts",
+    "App/Component/BFError.show.ts",
+    "App/Services/BFPersistData.ts",
+    "App/Common/Strings.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "wwwroot"
+  ]
+}
